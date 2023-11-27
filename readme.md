@@ -15,3 +15,11 @@
     </tr>
 </table>
 
+## Enlaces activos al sitio:
+
+- [Deploy FrontEnd en Vercel](https://front-backend.vercel.app)
+
+- [Deploy BackEnd en Railway](https://backbackend-production.up.railway.app)
+
+## Desafíos realizados durante el curso
+- [Desafios](https://github.com/carlosnhall/programacion-backend-MERN)  (Todos los desafíos hasta llegar al proyecto final)

@@ -21,5 +21,11 @@
 
 - [Deploy BackEnd en Railway](https://backbackend-production.up.railway.app)
 
+## Enlaces activos a los repositorios:
+
+- [Repo FrontEnd](https://github.com/carlosnhall/frontBackend)
+
+- [Repo BackEnd](https://github.com/carlosnhall/backbackend)
+
 ## Desafíos realizados durante el curso
 - [Desafios](https://github.com/carlosnhall/programacion-backend-MERN)  (Todos los desafíos hasta llegar al proyecto final)

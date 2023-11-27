@@ -4,5 +4,5 @@
 
 ## Demo <a name="video"></a>
 
-[![Watch the video]](https://res.cloudinary.com/dzerohyrd/video/upload/v1701124346/TechCommerce_dm4iaj.mp4)
+(https://res.cloudinary.com/dzerohyrd/video/upload/v1701124346/TechCommerce_dm4iaj.mp4)
 

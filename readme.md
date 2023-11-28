@@ -29,3 +29,26 @@
 
 ## Desafíos realizados durante el curso
 - [Desafios](https://github.com/carlosnhall/programacion-backend-MERN)  (Todos los desafíos hasta llegar al proyecto final)
+
+## Variables de entorno <a name="env"></a>
+
+| Variable                                  | Descripción                                                   |
+| ----------------------------------------- | ------------------------------------------------------------- |
+| `APP_SECRET`                              | Session secret key.                                           |
+| `JWT_PRIVATE_KEY`                         | Clave o secreto para JSON Web Token.                          |
+| `JWT_PASSWORD_KEY`                        | Password para JSON Web Token.                                 |
+| `COOKIE_NAME_JWT`                         | Nombre de la cookie key.                                      |
+| `MONGODB_NAME`                            | Nombre Base de datos MONGO                                    |
+| `MONGODB_URI`                             | URI Base de datos MONGO                                       |
+| `PORT`                                    | Puerto de la aplicación. Valores sugeridos: [8080, 3000]      |
+| `factory`                                 | Tipo de persistencia                                          |
+| `ENVIRONMENT`                             | Tipo de ambiente                                              |
+| `MAIL_USER`                               | Usuario de Nodemailer para correo electrónico.                |
+| `MAIL_PASSWORD`                           | Contraseña de Nodemailer para correo electrónico.             |
+| `ADMIN_EMAIL_INCLUDES`                    | Nombre Admin                                                  |
+| `ADMIN_PASSWORD_INCLUDES`                 | Password Admin                                                |
+| `DOMAIN_NAME`                             | Nombre Dominio Backend                                        |
+| `FRONT_DOMAIN`                            | Nombre Dominio Frontend                                       |
+| `ADMIN_PRODUCTS_AND_VERIFICATION_PASSWORD`| Password Admin                                                |
+| `ADMIN_PRODUCTS_AND_VERIFICATION_NAME`    | Nombre Admin                                                  |
+
